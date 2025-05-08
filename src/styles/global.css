@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Темная тема */
+html.dark {
+    background-color: #121212;
+    color: #fff;
+}
